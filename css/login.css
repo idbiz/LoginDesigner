@@ -230,10 +230,10 @@ input {
 }
 
 .overlay {
-  background-image: url('/assets/img/Juggle.gif');
+  background-image: url('/assets/img/Jellyfish.gif');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 0 0;
+  background-position: center;
   color: #fff;
   position: relative;
   left: -100%;
